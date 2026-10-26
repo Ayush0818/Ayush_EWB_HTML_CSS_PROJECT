@@ -248,7 +248,6 @@ Or simply **drag and drop** `index.html` into any browser.
 [![GitHub](https://img.shields.io/badge/GitHub-Ayush0818-181717?style=for-the-badge&logo=github)](https://github.com/Ayush0818)
 [![Live Site](https://img.shields.io/badge/🌐%20Live%20Site-GitHub%20Pages-3fb950?style=for-the-badge)](https://ayush0818.github.io/Ayush_EWB_HTML_CSS_PROJECT/)
 [![Email](https://img.shields.io/badge/Email-ayu12344566%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayu12344566@gmail.com)
-[![Phone](https://img.shields.io/badge/Mobile-%2B91%209179446742-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919179446742)
 
 </div>
 
