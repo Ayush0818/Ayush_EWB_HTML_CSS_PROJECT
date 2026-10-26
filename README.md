@@ -7,10 +7,11 @@
 [![Responsive](https://img.shields.io/badge/Responsive-Design-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
 [![No JS](https://img.shields.io/badge/Zero-JavaScript-brightgreen?style=for-the-badge&logo=javascript&logoColor=white)](#)
 [![EWB Internship](https://img.shields.io/badge/EWB-HTML%20%26%20CSS%20Internship-a371f7?style=for-the-badge)](#)
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-GitHub%20Pages-3fb950?style=for-the-badge)](https://ayush0818.github.io/Ayush_EWB_HTML_CSS_PROJECT/)
 
 > A **clean, modern, fully responsive** personal portfolio website built with **pure HTML5 & CSS3** — zero JavaScript, zero frameworks, zero dependencies.
 
-**[🚀 View Live »](https://github.com/Ayush0818/Ayush_EWB_HTML_CSS_PROJECT)** &nbsp;·&nbsp; **[📂 Browse Code »](https://github.com/Ayush0818/Ayush_EWB_HTML_CSS_PROJECT/tree/main)** &nbsp;·&nbsp; **[🐛 Report Bug »](https://github.com/Ayush0818/Ayush_EWB_HTML_CSS_PROJECT/issues)**
+**[🚀 View Live »](https://ayush0818.github.io/Ayush_EWB_HTML_CSS_PROJECT/)** &nbsp;·&nbsp; **[📂 Browse Code »](https://github.com/Ayush0818/Ayush_EWB_HTML_CSS_PROJECT/tree/main)** &nbsp;·&nbsp; **[🐛 Report Bug »](https://github.com/Ayush0818/Ayush_EWB_HTML_CSS_PROJECT/issues)**
 
 </div>
 
@@ -18,6 +19,7 @@
 
 ## 📋 Table of Contents
 
+- [🌐 Live Demo](#-live-demo)
 - [📖 About The Project](#-about-the-project)
 - [✨ Features](#-features)
 - [🗂️ Project Structure](#️-project-structure)
@@ -28,6 +30,18 @@
 - [🚀 Getting Started](#-getting-started)
 - [👤 Author](#-author)
 - [📜 License](#-license)
+
+---
+
+## 🌐 Live Demo
+
+<div align="center">
+
+### 🔗 [https://ayush0818.github.io/Ayush_EWB_HTML_CSS_PROJECT/](https://ayush0818.github.io/Ayush_EWB_HTML_CSS_PROJECT/)
+
+> Hosted for free on **GitHub Pages** — no server, no backend, pure HTML & CSS! ⚡
+
+</div>
 
 ---
 
@@ -232,6 +246,7 @@ Or simply **drag and drop** `index.html` into any browser.
 ### Ayush Yadav
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ayush0818-181717?style=for-the-badge&logo=github)](https://github.com/Ayush0818)
+[![Live Site](https://img.shields.io/badge/🌐%20Live%20Site-GitHub%20Pages-3fb950?style=for-the-badge)](https://ayush0818.github.io/Ayush_EWB_HTML_CSS_PROJECT/)
 [![Email](https://img.shields.io/badge/Email-ayu12344566%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayu12344566@gmail.com)
 [![Phone](https://img.shields.io/badge/Mobile-%2B91%209179446742-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919179446742)
 
